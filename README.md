@@ -27,4 +27,9 @@ Si deseas usar otra base de datos, consulta la documentación de [Prisma ORM](ht
      npx prisma migrate dev --name init
      ```
 
+---
+
+## Pasos para obtener las credenciales de Google y configurar el OAuth 2.0
+
+
 ¡Listo! Ahora tu base de datos está configurada y lista para usarse. 🚀 
