@@ -25,5 +25,8 @@
     "url": "https://github.com/zalazarc20/auth-template/issues"
   },
   "homepage": "https://github.com/zalazarc20/auth-template#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.3.1"
+  }
 }
